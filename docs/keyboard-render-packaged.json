@@ -1,0 +1,10 @@
+{
+  "target": "packaged",
+  "source": "controlled IPC animation fixtures, no native input injection",
+  "checks": [
+    "104 distinct labelled SVG keycaps",
+    "all 26 letters move the assigned paw to the matching key and highlight it",
+    "left A and right J can remain active at the same time",
+    "release clears highlights and returns both paws to idle"
+  ]
+}

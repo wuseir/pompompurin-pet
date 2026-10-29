@@ -1,0 +1,386 @@
+{
+  "version": "0.2.0",
+  "scope": "Source and screenshots only; documentation prepared for public GitHub viewing.",
+  "excluded": [
+    ".git development history",
+    "node_modules",
+    "dist",
+    "dist-electron",
+    "release binaries and archives",
+    "downloads",
+    "logs",
+    "test-results",
+    "local user configuration"
+  ],
+  "runtimeFilesCompared": 38,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "4492d518c19d1b4a85b952fb11717eccc46a44aafc043a88b741b3919094ce30"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "3d8fb455f7d0b8d78ef694de96b3c5faccf377336043f80d8dd4eb9029b9e8bb"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "43bf1910782473c2c35b115653fd2be3870d5e799f9ece6592485482c6c7d33e"
+    },
+    {
+      "path": "README.md",
+      "sha256": "da4a6b34116b16f16336eccd78d0e50fcd45206b0b5d125b905bfabb42cc770e"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "1edc3d7ae755057a262013fd6a94e442fafdd62f0e901bddcc0aba96c5a80fd0"
+    },
+    {
+      "path": "docs/desktop-smoke-0.2.json",
+      "sha256": "9c074a03acbeeb57affd5acad43863a7ae9188f86f82beae464b365b4933eb1c"
+    },
+    {
+      "path": "docs/files.md",
+      "sha256": "e64ec5ec7e1b7e9db969dfbc409bffdf264b926db2458508d8603580ba95050e"
+    },
+    {
+      "path": "docs/keyboard-0.2.md",
+      "sha256": "59fe284fb02970d0b1db3efcf40454f6c1f99d930e0d756f68d3951ba9b63108"
+    },
+    {
+      "path": "docs/keyboard-AJ.png",
+      "sha256": "20b25edb883d83c79f158a265b189835ec0e5296b97c31cd3df632a68b70b36b"
+    },
+    {
+      "path": "docs/keyboard-idle.png",
+      "sha256": "77b2e352979782eb65e7e62f0b7d09dd1e9d0e287788e863dbb38fce24e215a8"
+    },
+    {
+      "path": "docs/keyboard-render-development.json",
+      "sha256": "cec4e59da3560eebab21b0e29759ad09d50d952dcd2047e0b7747363129c4f99"
+    },
+    {
+      "path": "docs/keyboard-render-packaged.json",
+      "sha256": "9bc50e45a74b94b0ab07dedfe9959603779366301eb775bc5c586f181c0b3df5"
+    },
+    {
+      "path": "docs/packaged-smoke.json",
+      "sha256": "ee37f8bcb0944c64b8053e1f5f4f9559b665d8b8f01bcfc01df7c272a3e93682"
+    },
+    {
+      "path": "docs/preview.png",
+      "sha256": "1146269956f4f0bc9be87fa86faced32a6b54ce549aabe9a628239e6c7f66545"
+    },
+    {
+      "path": "docs/research.md",
+      "sha256": "faa16ad32b99dec1dacea455f6822f54e15d7652496371e318c28e158f53e908"
+    },
+    {
+      "path": "docs/settings.png",
+      "sha256": "f8d2c61e2058bef45fc406b63c9df2851168c676fd98801ba05f532056fc4a95"
+    },
+    {
+      "path": "docs/upstream-origin.json",
+      "sha256": "ceb80af72203dda4ade0651d56693a47422b1e2295fca4da461504ee3e96ef6b"
+    },
+    {
+      "path": "docs/validation.md",
+      "sha256": "07afb4c2b1da171ab2e05a50e152b99e534e73294406795c4ec979d1d93a4f35"
+    },
+    {
+      "path": "electron/input-worker.cjs",
+      "sha256": "118159890ab0c9195342d8ed2649f1ec941466de67d16a4a8319ccf872c343b8"
+    },
+    {
+      "path": "electron/keyboard.ts",
+      "sha256": "2c28e930ec0aa29f1e8c66fd9b374fb7bc3a2541a606e5e2c45e957a73b90774"
+    },
+    {
+      "path": "electron/main.ts",
+      "sha256": "05facdde4da860dbbc8f89846b914151fee9769b6f83da2d882987f76ccce547"
+    },
+    {
+      "path": "electron/models.ts",
+      "sha256": "ec94aa2027dec596317515c6671a3fffcbb386a321d78dfb40c6c2bb0d92ba32"
+    },
+    {
+      "path": "electron/preload.ts",
+      "sha256": "8d534e3704604a3652c0ae3996ad7979744007bfbdf25151de0827dec79336a6"
+    },
+    {
+      "path": "index.html",
+      "sha256": "d9b25b86c29aba17cc292bf2253618c015da52e203326a339a400725191c123b"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "4d5de5deea91c38a7f265663906aa86140bd19ff54054c88fc42c390865e85c6"
+    },
+    {
+      "path": "package.json",
+      "sha256": "6f6e3a9d5f5dc530ec65f818d2189dd38180c1c8e881006d7ffe439c00004c1a"
+    },
+    {
+      "path": "public/keymap.json",
+      "sha256": "8d295467f34c5f83871173225cffea3320105152a45bf140ffc9926c50098914"
+    },
+    {
+      "path": "public/models/README.txt",
+      "sha256": "a127b3909db05c66b1b3fe6c96b570578dbbf94d357d714257740f60786b0eda"
+    },
+    {
+      "path": "public/models/prototype/body.svg",
+      "sha256": "441a870ba13a746a3251795a45a6443c6dfd602bbcd8ac2355f74cc786373549"
+    },
+    {
+      "path": "public/models/prototype/keyboard.svg",
+      "sha256": "1d6db7f844fa84d71b00bb6ba4ec62c65865194f4e6251233d96af9dbd79704c"
+    },
+    {
+      "path": "public/models/prototype/left-paw.svg",
+      "sha256": "356ef54a4518737caa6cf25496b2ca8adb62ff1135979130090cb87c1eeccdbf"
+    },
+    {
+      "path": "public/models/prototype/model.json",
+      "sha256": "05f9ba5de6fa7e5f477cf8e0b49f0484c3e3b91b2fac33c06bf6c57228f38e07"
+    },
+    {
+      "path": "public/models/prototype/right-paw.svg",
+      "sha256": "5b6cd5d6277131f67815c694f1a6d675e687a1a4f98af457fb9bb411d7e74037"
+    },
+    {
+      "path": "public/tray.png",
+      "sha256": "fe218f052046a07b44a85fafa01dddf5fa291754626507cc83984fa5ec33c2c4"
+    },
+    {
+      "path": "scripts/archive.mjs",
+      "sha256": "63f16363c60ef5ad198a57c65b3409da8ce2b8b9a95633a1c041f6e1681971d1"
+    },
+    {
+      "path": "scripts/desktop-test.mjs",
+      "sha256": "a50b01f56d3a471087203cbb4569b54f0db8f8fd97598c1ad5990aaa7c60530c"
+    },
+    {
+      "path": "scripts/icon.mjs",
+      "sha256": "afc4a4eb6fa74dc2b30d71f47fa7868908aa8d84269b6fb18bb76e76ea6e0835"
+    },
+    {
+      "path": "scripts/keyboard-asset.mjs",
+      "sha256": "e8f58685c4b44e7ac24e4b73355a660d60ee62027b7310175ec5f6be4a075d95"
+    },
+    {
+      "path": "scripts/keyboard-render-test.mjs",
+      "sha256": "665d4bf620d62527ba2eee19aeaa5cf34ecc94536670ca4f539714ed5788c584"
+    },
+    {
+      "path": "scripts/live-test.mjs",
+      "sha256": "0d2e2c3b0af5bd5c253b0fa3b80a26e57cfee823b9a1a3be28e745088d2ecc49"
+    },
+    {
+      "path": "scripts/package.mjs",
+      "sha256": "1ee6c9e6d433957c39fda27cfcbe18ed3e945129d58494b68d0793ed9b031495"
+    },
+    {
+      "path": "scripts/setup-runtime.mjs",
+      "sha256": "1d302eb04141fb2a5aa8f6985c4bd6caf81165676221d846e98c3c9ec7311b5a"
+    },
+    {
+      "path": "shared/input.ts",
+      "sha256": "3ec3c313ecd5c23d1d7d7590770ef2ef6e617eb5417d925cf5c2c5ab5196beb3"
+    },
+    {
+      "path": "shared/keyboard-layout.ts",
+      "sha256": "af95079de1a0c9c836563b24a4bcaa49326d2f23954aaa5c8dd8993ff03a5851"
+    },
+    {
+      "path": "shared/settings.ts",
+      "sha256": "f4fa38b8b4d6716aa1a4f28797774fa1aac642f08074cdeec190727f072cc6e7"
+    },
+    {
+      "path": "shared/types.ts",
+      "sha256": "c9ce0b0c42f012ecca81e587a3429b2aceb1d0992b394f74bc91a85aeae14f25"
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "64247b071f944b7b8aaa2546e11cf48c9abab75546dd966392f448ff6b781ed9"
+    },
+    {
+      "path": "src/Keyboard.tsx",
+      "sha256": "a7434ecada1cbc6690a246e8736cd4ff512972898fdbed4c2103d75ab21c8584"
+    },
+    {
+      "path": "src/animation.ts",
+      "sha256": "16ab832ef35858221aedec4772ffdfe22bdeb1f1eb27bee4ab98deb5da99eee1"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "660c19ace773014e29044cde6c524541e39091729fff206704543277e8036d4a"
+    },
+    {
+      "path": "src/style.css",
+      "sha256": "8b8cb4d686e1bc2fa077698b2ba31ee2353aeabd269e55685cb77ea9ff9d06b3"
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "sha256": "7404460d0a75eb14fc11913183331b30a7a60bd00bd8682a3214b7268e11300f"
+    },
+    {
+      "path": "tests/core.test.ts",
+      "sha256": "4cd087a0ed729556f7ccb74759b02ec2fb3f457c70fb62088a963830c1be8988"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "6ece38c0cc3900cf02f3978314c56cb2577a499e01f81c956bdc567a3157bfc8"
+    },
+    {
+      "path": "upstream/chiikawa-pets/.eslintrc.cjs",
+      "sha256": "48fbb93fc59962f7f52881f89adcc7254a2e164afa8c01cd7628f299f0b485ec"
+    },
+    {
+      "path": "upstream/chiikawa-pets/.github/workflows/release.yml",
+      "sha256": "f71db6d36e0971254ec33692f8d55837a67bf1928926304eaf9b9faed05e5277"
+    },
+    {
+      "path": "upstream/chiikawa-pets/.gitignore",
+      "sha256": "df85cd30da017634e924b936898287ad3fe3fbddc01647ff01ea2abc1b154cee"
+    },
+    {
+      "path": "upstream/chiikawa-pets/README.md",
+      "sha256": "d76eaa22be8babc48168c0ce33a55f03a347c6b6f6049ebdf4c07f05197ba784"
+    },
+    {
+      "path": "upstream/chiikawa-pets/electron-builder.json5",
+      "sha256": "23443f8597f0191f960ea4b5009990861b34a3a2c4eb9fbc1b4d4059276cb76e"
+    },
+    {
+      "path": "upstream/chiikawa-pets/electron/electron-env.d.ts",
+      "sha256": "70eafdedde44c050c4749e7bbf8e36e908384533304bcc286d72edb31b4fce4c"
+    },
+    {
+      "path": "upstream/chiikawa-pets/electron/main.ts",
+      "sha256": "3b7a6de704bc1dc123e001098e5733bf49efc13cccc98880976d74c518b3d662"
+    },
+    {
+      "path": "upstream/chiikawa-pets/electron/preload.ts",
+      "sha256": "5781f0791f8df4daea6fde21be7fcfd39b415a47e6d658d2356fb7feb3dc4100"
+    },
+    {
+      "path": "upstream/chiikawa-pets/index.html",
+      "sha256": "4f7214ace4649c0028727f2a8a9ada735b0b42059e0710228a50fa2e3efd4b15"
+    },
+    {
+      "path": "upstream/chiikawa-pets/package.json",
+      "sha256": "3a3eb9cafaee86d66de87731bc2b1073c18a272729b3cc973189314308b6cb7e"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/App.tsx",
+      "sha256": "ce69fc3b4141dabf77d49c9f08bf68ba1f975aea1fad35bf6b2bf8e836d64f14"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/BongoCat/Keyboard.tsx",
+      "sha256": "e339315eae9ff5df9ad37dd878013d9e7b34b6160dcf3f31857606b4e5807c76"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/BongoCat/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/BongoCat/index.tsx",
+      "sha256": "f7ed1a78f2313b440cdccc9d296e999590ab870710a1f0e8a87beb8f1f9bca21"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/BongoCat/initLive2D.ts",
+      "sha256": "8d2765a68ac41348a2c6532e016e7d16c98645ad249778755943608beab90336"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/BongoCat/keycode.ts",
+      "sha256": "531abf11817d6286bc9d991a33603c9989394fe13cdec765c0cd9aeb403450c1"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Chii/Keyboard.tsx",
+      "sha256": "4319e138766f020d8c777da6bf7fa6c513cbc9257b107a6d7fb451252e68e9a2"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Chii/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Chii/index.tsx",
+      "sha256": "7ff26718786cf137b6366f0d6198628c2bb0164202922bcfea032c8137da107e"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Chii/initLive2D.ts",
+      "sha256": "dbbe5431beeb4001279b7646433f8b6ea96e9e2e7341d9cd1fbe24922d76d51f"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Chii/keycode.ts",
+      "sha256": "d1c02273210891838a5f8ab7fe12af8bfc95a0cc70d3306bbda8980e24af9c7a"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Hachiware/Keyboard.tsx",
+      "sha256": "2823aec92d9e9f981df930b75a695f9d88735c0f9f5af715174ca519afd20d03"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Hachiware/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Hachiware/index.tsx",
+      "sha256": "b37d0c84d27db2f602d3241e061c5088230b2f00285613c57f4f3fc0a33763a9"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Hachiware/initLive2D.ts",
+      "sha256": "d979a8deed552253559721cc1230fbb85660eb8a35216cde574dbc9a292de2de"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Hachiware/keycode.ts",
+      "sha256": "d1c02273210891838a5f8ab7fe12af8bfc95a0cc70d3306bbda8980e24af9c7a"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Usagi/Keyboard.tsx",
+      "sha256": "bf0cf27239728b0d2d8867c6dfc6f6d1bf59c5257b8c9119d4d9deb34979803b"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Usagi/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Usagi/index.tsx",
+      "sha256": "2ccf2d350e515458cdce6c55fde03fcd13482531bc540dcb8b129d4e75774331"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Usagi/initLive2D.ts",
+      "sha256": "7b84b06024332cd680f67e846eaab18911d6521fd8e99f19aaf87d34029bb9ac"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/components/Usagi/keycode.ts",
+      "sha256": "d1c02273210891838a5f8ab7fe12af8bfc95a0cc70d3306bbda8980e24af9c7a"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/index.css",
+      "sha256": "767bd66e38e71ff4425dfc8cc1c278c680665252fc3681c9de5bd6666d664131"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/main.tsx",
+      "sha256": "dd1766adebbb0a02f35555743f14c5d89b82e7129848f5743321429aa5732042"
+    },
+    {
+      "path": "upstream/chiikawa-pets/src/vite-env.d.ts",
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+    },
+    {
+      "path": "upstream/chiikawa-pets/tsconfig.json",
+      "sha256": "e268e8c201335b6e24e75d5031d451966cd5a825bd06289bb69e93ee71fedcbb"
+    },
+    {
+      "path": "upstream/chiikawa-pets/tsconfig.node.json",
+      "sha256": "bb9fd8592a9e364641441219f10d84daae9ba2ca5cc85db798efad6913bb8257"
+    },
+    {
+      "path": "upstream/chiikawa-pets/vite.config.ts",
+      "sha256": "ad5f71b370ca90c6fbc2241efcb63e3093c8ab86e2b27d1871a795143e9bfca2"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "651ea1983fc12c41799fe92fdd570ade9f1c7cf5204474993760aa462ad89df4"
+    }
+  ]
+}

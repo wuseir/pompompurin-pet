@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png binary
+# Preserve the upstream Markdown's intentional hard line breaks.
+upstream/**/*.md whitespace=-blank-at-eol

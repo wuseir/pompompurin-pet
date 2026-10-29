@@ -1,0 +1,430 @@
+{
+  "8": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "9": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "13": {
+    "action": "right",
+    "kind": "enter"
+  },
+  "16": {
+    "action": "left",
+    "kind": "modifier"
+  },
+  "17": {
+    "action": "left",
+    "kind": "modifier"
+  },
+  "18": {
+    "action": "left",
+    "kind": "modifier"
+  },
+  "19": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "20": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "27": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "32": {
+    "action": "both",
+    "kind": "space"
+  },
+  "33": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "34": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "35": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "36": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "37": {
+    "action": "right",
+    "kind": "arrow"
+  },
+  "38": {
+    "action": "right",
+    "kind": "arrow"
+  },
+  "39": {
+    "action": "right",
+    "kind": "arrow"
+  },
+  "40": {
+    "action": "right",
+    "kind": "arrow"
+  },
+  "44": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "45": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "46": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "48": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "49": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "50": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "51": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "52": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "53": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "54": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "55": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "56": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "57": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "65": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "66": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "67": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "68": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "69": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "70": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "71": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "72": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "73": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "74": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "75": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "76": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "77": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "78": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "79": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "80": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "81": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "82": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "83": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "84": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "85": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "86": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "87": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "88": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "89": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "90": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "91": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "92": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "93": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "96": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "97": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "98": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "99": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "100": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "101": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "102": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "103": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "104": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "105": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "106": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "107": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "108": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "109": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "110": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "111": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "112": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "113": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "114": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "115": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "116": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "117": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "118": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "119": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "120": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "121": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "122": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "123": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "144": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "145": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "160": {
+    "action": "left",
+    "kind": "modifier"
+  },
+  "161": {
+    "action": "right",
+    "kind": "modifier"
+  },
+  "162": {
+    "action": "left",
+    "kind": "modifier"
+  },
+  "163": {
+    "action": "right",
+    "kind": "modifier"
+  },
+  "164": {
+    "action": "left",
+    "kind": "modifier"
+  },
+  "165": {
+    "action": "right",
+    "kind": "modifier"
+  },
+  "186": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "187": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "188": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "189": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "190": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "191": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "192": {
+    "action": "left",
+    "kind": "tap"
+  },
+  "219": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "220": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "221": {
+    "action": "right",
+    "kind": "tap"
+  },
+  "222": {
+    "action": "right",
+    "kind": "tap"
+  }
+}

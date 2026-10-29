@@ -1,0 +1,121 @@
+{
+  "target": "packaged",
+  "checks": [
+    "native input process reaches ready state (event delivery tested separately)",
+    "unfocusable always-on-top window",
+    "rendered output has transparent and painted pixels",
+    "disable stops native helper process, visible OFF status",
+    "enable creates helper again",
+    "size control resizes native window",
+    "hide and inactive show",
+    "no renderer errors"
+  ],
+  "errors": [],
+  "window": {
+    "focusable": false,
+    "top": true,
+    "bounds": {
+      "x": 1576,
+      "y": 722,
+      "width": 320,
+      "height": 300
+    },
+    "displays": [
+      {
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        "scaleFactor": 1
+      }
+    ]
+  },
+  "transparency": {
+    "clear": 55411,
+    "painted": 40589
+  },
+  "metrics": [
+    {
+      "type": "Browser",
+      "cpu": {
+        "cumulativeCPUUsage": 3.512844,
+        "percentCPUUsage": 12.224962895850709,
+        "idleWakeupsPerSecond": 0
+      },
+      "memory": {
+        "workingSetSize": 134380,
+        "peakWorkingSetSize": 136588,
+        "privateBytes": 66704
+      }
+    },
+    {
+      "type": "GPU",
+      "cpu": {
+        "cumulativeCPUUsage": 1.193924,
+        "percentCPUUsage": 2.0801065451962764,
+        "idleWakeupsPerSecond": 0
+      },
+      "memory": {
+        "workingSetSize": 157472,
+        "peakWorkingSetSize": 160588,
+        "privateBytes": 124272
+      }
+    },
+    {
+      "type": "Utility",
+      "name": "Network Service",
+      "cpu": {
+        "cumulativeCPUUsage": 0.121854,
+        "percentCPUUsage": 0.0014200609587143255,
+        "idleWakeupsPerSecond": 0
+      },
+      "memory": {
+        "workingSetSize": 52872,
+        "peakWorkingSetSize": 53692,
+        "privateBytes": 12920
+      }
+    },
+    {
+      "type": "Tab",
+      "cpu": {
+        "cumulativeCPUUsage": 0.237982,
+        "percentCPUUsage": 0.7186712755468427,
+        "idleWakeupsPerSecond": 0
+      },
+      "memory": {
+        "workingSetSize": 91916,
+        "peakWorkingSetSize": 92460,
+        "privateBytes": 41096
+      }
+    },
+    {
+      "type": "Tab",
+      "cpu": {
+        "cumulativeCPUUsage": 0.174995,
+        "percentCPUUsage": 0.7891794611759034,
+        "idleWakeupsPerSecond": 0
+      },
+      "memory": {
+        "workingSetSize": 112140,
+        "peakWorkingSetSize": 112144,
+        "privateBytes": 42260
+      }
+    },
+    {
+      "type": "Utility",
+      "name": "Pudding keyboard listener",
+      "cpu": {
+        "cumulativeCPUUsage": 0.104331,
+        "percentCPUUsage": 0,
+        "idleWakeupsPerSecond": 0
+      },
+      "memory": {
+        "workingSetSize": 104208,
+        "peakWorkingSetSize": 105012,
+        "privateBytes": 28200
+      }
+    }
+  ]
+}

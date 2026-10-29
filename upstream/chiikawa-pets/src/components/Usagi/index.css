@@ -1,0 +1,16 @@
+img {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  margin: auto;
+  display: block;
+  width: 100%;
+}
+
+canvas {
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: block;
+}

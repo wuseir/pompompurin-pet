@@ -1,0 +1,61 @@
+# 源码文件清单
+
+本仓库提供 0.2.0 独立源码快照及界面效果图。运行源码与已验证的开发版本保持一致，README 和文档移除了本机路径。
+
+- `.gitattributes`
+- `.gitignore`
+- `LICENSE`
+- `README.md`
+- `THIRD_PARTY_NOTICES.md`
+- `docs/desktop-smoke-0.2.json`
+- `docs/files.md`
+- `docs/keyboard-0.2.md`
+- `docs/keyboard-AJ.png`
+- `docs/keyboard-idle.png`
+- `docs/keyboard-render-development.json`
+- `docs/keyboard-render-packaged.json`
+- `docs/packaged-smoke.json`
+- `docs/preview.png`
+- `docs/research.md`
+- `docs/settings.png`
+- `docs/upstream-origin.json`
+- `docs/validation.md`
+- `electron/input-worker.cjs`
+- `electron/keyboard.ts`
+- `electron/main.ts`
+- `electron/models.ts`
+- `electron/preload.ts`
+- `index.html`
+- `package-lock.json`
+- `package.json`
+- `public/keymap.json`
+- `public/models/README.txt`
+- `public/models/prototype/body.svg`
+- `public/models/prototype/keyboard.svg`
+- `public/models/prototype/left-paw.svg`
+- `public/models/prototype/model.json`
+- `public/models/prototype/right-paw.svg`
+- `public/tray.png`
+- `scripts/archive.mjs`
+- `scripts/desktop-test.mjs`
+- `scripts/icon.mjs`
+- `scripts/keyboard-asset.mjs`
+- `scripts/keyboard-render-test.mjs`
+- `scripts/live-test.mjs`
+- `scripts/package.mjs`
+- `scripts/setup-runtime.mjs`
+- `shared/input.ts`
+- `shared/keyboard-layout.ts`
+- `shared/settings.ts`
+- `shared/types.ts`
+- `src/App.tsx`
+- `src/Keyboard.tsx`
+- `src/animation.ts`
+- `src/main.tsx`
+- `src/style.css`
+- `src/vite-env.d.ts`
+- `tests/core.test.ts`
+- `tsconfig.json`
+- `vite.config.ts`
+
+`upstream/chiikawa-pets` 保留固定 commit 的原始文本源码，不参与应用构建。版权与摘要见 LICENSE、THIRD_PARTY_NOTICES.md 和 upstream-origin.json。

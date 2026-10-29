@@ -1,0 +1,159 @@
+{
+  "repository": "https://github.com/meiguiyisenluo/chiikawa-pets",
+  "commit": "a6c949432296308fcc692cdf8d4f092c3838b849",
+  "textFiles": [
+    {
+      "path": ".eslintrc.cjs",
+      "sha256": "48fbb93fc59962f7f52881f89adcc7254a2e164afa8c01cd7628f299f0b485ec"
+    },
+    {
+      "path": ".github/workflows/release.yml",
+      "sha256": "f71db6d36e0971254ec33692f8d55837a67bf1928926304eaf9b9faed05e5277"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "df85cd30da017634e924b936898287ad3fe3fbddc01647ff01ea2abc1b154cee"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "43bf1910782473c2c35b115653fd2be3870d5e799f9ece6592485482c6c7d33e"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d76eaa22be8babc48168c0ce33a55f03a347c6b6f6049ebdf4c07f05197ba784"
+    },
+    {
+      "path": "electron-builder.json5",
+      "sha256": "23443f8597f0191f960ea4b5009990861b34a3a2c4eb9fbc1b4d4059276cb76e"
+    },
+    {
+      "path": "electron/electron-env.d.ts",
+      "sha256": "70eafdedde44c050c4749e7bbf8e36e908384533304bcc286d72edb31b4fce4c"
+    },
+    {
+      "path": "electron/main.ts",
+      "sha256": "3b7a6de704bc1dc123e001098e5733bf49efc13cccc98880976d74c518b3d662"
+    },
+    {
+      "path": "electron/preload.ts",
+      "sha256": "5781f0791f8df4daea6fde21be7fcfd39b415a47e6d658d2356fb7feb3dc4100"
+    },
+    {
+      "path": "index.html",
+      "sha256": "4f7214ace4649c0028727f2a8a9ada735b0b42059e0710228a50fa2e3efd4b15"
+    },
+    {
+      "path": "package.json",
+      "sha256": "3a3eb9cafaee86d66de87731bc2b1073c18a272729b3cc973189314308b6cb7e"
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "ce69fc3b4141dabf77d49c9f08bf68ba1f975aea1fad35bf6b2bf8e836d64f14"
+    },
+    {
+      "path": "src/components/BongoCat/Keyboard.tsx",
+      "sha256": "e339315eae9ff5df9ad37dd878013d9e7b34b6160dcf3f31857606b4e5807c76"
+    },
+    {
+      "path": "src/components/BongoCat/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "src/components/BongoCat/index.tsx",
+      "sha256": "f7ed1a78f2313b440cdccc9d296e999590ab870710a1f0e8a87beb8f1f9bca21"
+    },
+    {
+      "path": "src/components/BongoCat/initLive2D.ts",
+      "sha256": "8d2765a68ac41348a2c6532e016e7d16c98645ad249778755943608beab90336"
+    },
+    {
+      "path": "src/components/BongoCat/keycode.ts",
+      "sha256": "531abf11817d6286bc9d991a33603c9989394fe13cdec765c0cd9aeb403450c1"
+    },
+    {
+      "path": "src/components/Chii/Keyboard.tsx",
+      "sha256": "4319e138766f020d8c777da6bf7fa6c513cbc9257b107a6d7fb451252e68e9a2"
+    },
+    {
+      "path": "src/components/Chii/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "src/components/Chii/index.tsx",
+      "sha256": "7ff26718786cf137b6366f0d6198628c2bb0164202922bcfea032c8137da107e"
+    },
+    {
+      "path": "src/components/Chii/initLive2D.ts",
+      "sha256": "dbbe5431beeb4001279b7646433f8b6ea96e9e2e7341d9cd1fbe24922d76d51f"
+    },
+    {
+      "path": "src/components/Chii/keycode.ts",
+      "sha256": "d1c02273210891838a5f8ab7fe12af8bfc95a0cc70d3306bbda8980e24af9c7a"
+    },
+    {
+      "path": "src/components/Hachiware/Keyboard.tsx",
+      "sha256": "2823aec92d9e9f981df930b75a695f9d88735c0f9f5af715174ca519afd20d03"
+    },
+    {
+      "path": "src/components/Hachiware/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "src/components/Hachiware/index.tsx",
+      "sha256": "b37d0c84d27db2f602d3241e061c5088230b2f00285613c57f4f3fc0a33763a9"
+    },
+    {
+      "path": "src/components/Hachiware/initLive2D.ts",
+      "sha256": "d979a8deed552253559721cc1230fbb85660eb8a35216cde574dbc9a292de2de"
+    },
+    {
+      "path": "src/components/Hachiware/keycode.ts",
+      "sha256": "d1c02273210891838a5f8ab7fe12af8bfc95a0cc70d3306bbda8980e24af9c7a"
+    },
+    {
+      "path": "src/components/Usagi/Keyboard.tsx",
+      "sha256": "bf0cf27239728b0d2d8867c6dfc6f6d1bf59c5257b8c9119d4d9deb34979803b"
+    },
+    {
+      "path": "src/components/Usagi/index.css",
+      "sha256": "3c31eae07e6a5b5795cabcd72f6a0460b504fe06a2c5c72c3d1c89a5249dbc4f"
+    },
+    {
+      "path": "src/components/Usagi/index.tsx",
+      "sha256": "2ccf2d350e515458cdce6c55fde03fcd13482531bc540dcb8b129d4e75774331"
+    },
+    {
+      "path": "src/components/Usagi/initLive2D.ts",
+      "sha256": "7b84b06024332cd680f67e846eaab18911d6521fd8e99f19aaf87d34029bb9ac"
+    },
+    {
+      "path": "src/components/Usagi/keycode.ts",
+      "sha256": "d1c02273210891838a5f8ab7fe12af8bfc95a0cc70d3306bbda8980e24af9c7a"
+    },
+    {
+      "path": "src/index.css",
+      "sha256": "767bd66e38e71ff4425dfc8cc1c278c680665252fc3681c9de5bd6666d664131"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "dd1766adebbb0a02f35555743f14c5d89b82e7129848f5743321429aa5732042"
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "e268e8c201335b6e24e75d5031d451966cd5a825bd06289bb69e93ee71fedcbb"
+    },
+    {
+      "path": "tsconfig.node.json",
+      "sha256": "bb9fd8592a9e364641441219f10d84daae9ba2ca5cc85db798efad6913bb8257"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "ad5f71b370ca90c6fbc2241efcb63e3093c8ab86e2b27d1871a795143e9bfca2"
+    }
+  ],
+  "excluded": "All upstream character assets, SDK/CDN binaries, lockfiles (regenerated) are excluded."
+}
